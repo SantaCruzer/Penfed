@@ -1,0 +1,1340 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml" id="outlook">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="date=no">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark">
+<meta name="format-detection" content="telephone=no">
+
+<style type="text/css">
+
+#outlook a {
+    padding: 0;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%
+}
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    -webkit-text-size-adjust: 100% !important;
+    -ms-text-size-adjust: 100% !important;
+    -webkit-font-smoothing: antialiased !important;
+    border-spacing: 0;
+	width: 100% !important;
+	min-width: 100%;
+	mso-line-height-rule: exactly;
+	font-family: Arial, sans-serif;
+	color: #002855;
+}
+div.preheader { 
+	display: none !important; 
+} 
+table {
+    border-collapse: collapse;
+    mso-table-lspace: 0px;
+    mso-table-rspace: 0px;
+    border-spacing: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+a {
+	color: #006B9A;
+	text-decoration: none;
+}
+img {
+	outline: none;
+	border: none;
+	clear: both; 
+	margin: 0; 
+	padding: 0; 
+	display: block; 
+	height: auto; 
+	text-decoration: none; 
+	-ms-interpolation-mode: bicubic;
+}
+a[href^=tel] {
+	color: #006B9A;
+	text-decoration: none;
+}
+sup {
+	font-size: 0.7em;
+	vertical-align: super;
+	line-height: 0;
+	mso-text-raise: 30%;
+}
+td {
+    border-collapse: collapse;
+    mso-line-height-rule: exactly;
+    font-weight: normal;
+	border-collapse: collapse !important;
+	font-family: Arial, sans-serif;
+}
+th {
+    margin: 0 !important;
+    padding: 0 !important;
+    vertical-align: top;
+    font-weight: normal;
+    border-collapse: collapse !important;
+    color: #002855;
+}
+u + #body a {
+	color: inherit;
+	text-decoration: none;
+	font-size: inherit;
+	font-family: inherit;
+	font-weight: inherit;
+	line-height: inherit;
+}
+.ReadMsgBody {
+    width: 100%;
+}
+.ExternalClass {
+    width: 100%;
+}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+}
+.yshortcuts a {
+    border-bottom: none !important;
+}
+.appleLinksGray a {
+    color: #666666 !important;
+    text-decoration: none !important;
+}
+.appleLinksWhite a {
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+}
+.appleLinksBlack a {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+a[x-apple-data-detectors] {
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+}
+.mobile {
+	display: none; 
+	mso-hide: all;
+	font-size: 0px; 
+	line-height: 0; 
+	overflow: hidden; 
+	width: 0; 
+	height: 0;
+}
+.heading {
+	hyphens: none !important; 
+	-moz-hyphens: none !important; 
+	-ms-hyphens: none !important; 
+	-webkit-hyphens: none !important;
+}
+.t-size-10 {
+	font-size: 10px;
+	line-height: 14px;
+}
+.t-size-12 {
+	font-size: 12px;
+	line-height: 16px;
+}
+.t-size-14 {
+	font-size: 14px;
+	line-height: 20px;
+}
+.t-size-16 {
+	font-size: 16px;
+	line-height: 22px;
+}
+.t-size-18 {
+	font-size: 18px;
+	line-height: 24px;
+}
+.t-size-20 {
+	font-size: 20px;
+	line-height: 28px;
+}
+.t-size-22 {
+	font-size: 22px;
+	line-height: 32px;
+}
+.t-size-24 {
+	font-size: 24px;
+	line-height: 34px;
+}
+.t-size-26 {
+	font-size: 26px;
+	line-height: 36px;
+}
+.t-size-28 {
+	font-size: 28px;
+	line-height: 38px;
+}
+.t-size-30 {
+	font-size: 30px;
+	line-height: 40px;
+}
+.t-size-32 {
+	font-size: 32px;
+	line-height: 44px;
+}
+.t-size-34 {
+	font-size: 34px;
+	line-height: 46px;
+}
+.t-size-36 {
+	font-size: 36px;
+	line-height: 48px;
+}
+.t-size-38 {
+	font-size: 38px;
+	line-height: 50px;
+}
+.t-size-40 {
+	font-size: 40px;
+	line-height: 52px;
+}
+.navy {
+    background-color: #002855;
+}
+.grey {
+    background-color: #e3e3e3;
+}
+.blue {
+    background-color: #19a1db;
+}
+.white {
+    background-color: #ffffff;
+}
+.text_navy {
+    color: #002855 !important;
+}
+.text_grey {
+    color: #4a4a4a !important;
+}
+.text_blue {
+    color: #19a1db !important;
+}
+.text_white {
+    color: #ffffff !important;
+}
+
+.ctalink-reg:hover {
+    text-decoration: underline !important;
+    color: #006b9a;
+}
+.ctalink:hover {
+    text-decoration: underline !important;
+    color: #006b9a;
+}
+.ctalink-text:hover {
+    text-decoration: underline !important;
+    color: #006B9A;
+}
+.ctalink-white:hover {
+    text-decoration: underline !important;
+    color: #ffffff
+}
+
+
+.button_navy:hover {
+	background-color: #006B9A !important;
+} 
+.button_blue:hover {
+	background-color: #002855 !important;
+} 
+.button_green:hover {
+	background-color: #002855 !important;
+} 
+.button_yellow:hover {
+	background-color: #006B9A !important;
+	color:  #ffffff !important;
+} 
+.button_white:hover {
+	background-color: #002855 !important;
+	color: #ffffff !important;
+} 
+.button_white_ol:hover {
+	background-color: #002855 !important;
+	color: #ffffff !important;
+	border: 1px solid #ffffff;
+} 
+
+@media only screen and (max-width: 500px) {
+	.s-show {
+		display: block !important;
+	}
+	.s-stack {
+		display: block !important;
+	}
+	.s-resize90 {
+		width: 90% !important;
+	}
+	.s-resize100 {
+		width: 100% !important;
+	}
+	.s-resize90 {
+		width: 90% !important;
+	}
+	.s-resize100 img {
+		width: 100vw !important;
+	}
+}
+@media only screen and (max-width: 700px) {
+	.desktop {
+		display: none !important;
+		max-height: 0px !important;
+		font-size: 0px !important;
+		overflow: hidden !important;
+		mso-hide: all !important;
+		width: 0 !important;
+	}
+	.mobile {
+		display: table-cell !important;
+		width:auto !important; 
+		overflow:visible !important; 
+		visibility:visible !important; 
+	}
+	.remove {
+		display: none !important;
+		width: 0 !important;
+		height: 0 !important;
+	}
+	.stack {
+		display: block !important;
+	}
+	.stack-header {
+		display: table-header-group !important;
+	}
+	.stack-footer {
+		display: table-footer-group !important;
+	}
+	.stack-image img {
+		margin-bottom: 20px !important;
+	}
+	.m-center-align {
+		text-align: center !important;
+		margin: 0 auto !important;
+	}
+	.m-left-align {
+		text-align: left !important;
+	}
+	.m-right-align {
+		text-align: right !important;
+	}
+	.w-resize100 {
+		width: 100% !important;
+	}
+	.w-resize95 {
+		width: 95% !important;
+	}
+	.w-resize90 {
+		width: 90% !important;
+	}
+	.w-resize85 {
+		width: 85% !important;
+	}
+	.w-resize80 {
+		width: 80% !important;
+	}
+	.w-resize75 {
+		width: 75% !important;
+	}
+	.w-resize70 {
+		width: 70% !important;
+	}
+	.w-resize65 {
+		width: 65% !important;
+	}
+	.w-resize60 {
+		width: 60% !important;
+	}
+	.w-resize55 {
+		width: 55% !important;
+	}
+	.w-resize50 {
+		width: 50% !important;
+	}
+	.w-resize45 {
+		width: 45% !important;
+	}
+	.w-resize40 {
+		width: 40% !important;
+	}
+	.w-resize35 {
+		width: 35% !important;
+	}
+	.w-resize30 {
+		width: 30% !important;
+	}
+	.w-resize25 {
+		width: 25% !important;
+	}
+	.w-resize20 {
+		width: 20% !important;
+	}
+	.w-resize15 {
+		width: 15% !important;
+	}
+	.w-resize10 {
+		width: 10% !important;
+	}
+	.w-resize5 {
+		width: 5% !important;
+	}
+	.h-resize10 {
+		height: 10px !important;
+	}
+	.h-resize30 {
+		height: 30px !important;
+	}
+	.h-resize40 {
+		height: 40px !important;
+	}
+	.orderbox {
+		display: grid;
+	}
+	.order1 {
+		order: -1;
+	}
+	.order2 {
+		order: 2;
+	}
+	.order3 {
+		order: 3;
+	}
+	.order4 {
+		order: 4;
+	}
+	.order6 {
+		order: 5;
+	}
+}
+@media (min-width: 375px) and (max-width: 480px){
+	u ~ .body{
+		min-width: 100vw !important;
+	}
+}
+@media screen yahoo and (max-width: 500px) {
+	table[class='w-resize100'], td[class='w-resize100'] {
+		width:100%!important;
+		display: inline-block !important;
+		height: auto!important;
+	}
+	div {
+		padding: 0;
+		margin: 0 auto;
+	}
+}
+/* ANDROID CENTER FIX */
+div[style*="margin: 16px 0;"] {
+	margin: 0;
+}
+td, span, div {
+	mix-blend-mode: unset;
+}
+@media (prefers-color-scheme: dark ) {
+	td, span, div {
+		mix-blend-mode: revert;
+		/*mix-blend-mode: none !important;*/
+	}
+}
+</style>
+<!--[if (lt mso 16)|(gt mso 16)]>
+<style type="text/css">
+    body, table, td, b, a, span, p {
+        font-family:  Arial, sans-serif; 
+        border-collapse: collapse; 
+    }
+    .mobile {
+        display: none; 
+        mso-hide: all; 
+        font-size: 0px; 
+        line-height: 0; 
+        overflow: hidden; 
+        width: 0; 
+        height: 0;
+    }
+    a {
+        color: inherit !important;
+    }
+</style>
+<![endif]-->
+
+
+<!--[if mso 16]>
+<style type="text/css">
+    body, table, td, b, a, span, p {
+        font-family:  Arial, sans-serif !important; 
+        border-collapse: collapse; 
+    }
+    .mobile {
+        display: none; 
+        mso-hide: all; 
+        font-size: 0px; 
+        line-height: 0; 
+        overflow: hidden; 
+        width: 0; 
+        height: 0;
+    }
+    a {
+        color: inherit !important;
+    }
+</style>
+<![endif]-->
+
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<title> Fname, we&rsquo;ve just increased our savings rates</title>
+<link rel="icon" type="image/png" href="https://www.penfed.org/content/dam/penfed/general/favicons/android-chrome-192x192.png"/>
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-180x180.png"/>
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-120x120.png"/>
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-152x152.png"/>
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-144x144.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-114x114.png"/>
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-76x76.png"/>
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.penfed.org//content/dam/penfed/general/favicons/apple-touch-icon-57x57.png"/>
+<link rel="icon" type="image/png" href="https://www.penfed.org//content/dam/penfed/general/favicons/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="https://www.penfed.org//content/dam/penfed/general/favicons/android-chrome-192x192.png" sizes="192x192"/>
+<link rel="icon" type="image/png" href="https://www.penfed.org//content/dam/penfed/general/favicons/android-chrome-256x256.png" sizes="256x256"/>
+<link rel="icon" type="image/png" href="https://www.penfed.org//content/dam/penfed/general/favicons/favicon-16x16.png" sizes="16x16"/>
+<link rel="manifest" href="https://www.penfed.org//content/dam/penfed/general/favicons/manifest.json"/>
+<link rel="mask-icon" href="https://www.penfed.org//content/dam/penfed/general/favicons/safari-pinned-tab.svg" color="#5bbad5"/>
+</head>
+<body id="body" style="width: 100%; margin: 0 !important; padding: 0 !important; background-color: #f2f2f2;">
+<div class="preheader" style="font-size: 1px; display: none !important;">4.70&#37; APY&sup1; for 18 months&#847;&zwnj;&nbsp;</div>
+<span style="display:none !important;visibility:hidden;mso-hide:all;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+<!--EOA COMMENT: This snippet of white space has been added to ensure short preview text does not run into the following text of your email.-->
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</span>
+
+<table id="FULL_BODY_TABLE" cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#f2f2f2" style="width: 100% !important;" role="presentation">
+
+<!--HEADER (logos and navbar)-->
+	<tr id="HEADER_ROW_1of5">
+		<td align="center">
+			<table cellpadding="0" cellspacing="0" border="0" width="700" class="w-resize100" role="presentation">
+
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+<!---------------- START EMAIL HEADER ----------------->
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+
+<!-- PenFed Logo -->
+				<tr>
+          <td width="700" valign="top" align="center">
+
+              <div>
+                <table cellpadding="0" cellspacing="0" border="0" width="90%" align="center" role="presentation">
+							
+							
+							<!-- Subject Line & Preview -->
+							<tr>
+								<td align="center" colspan="2">
+								SL: Fname, we&rsquo;ve just increased our savings rates<br>
+								Preview: 4.70&#37; APY&sup1; for 18 months
+								</td>
+							</tr>
+							
+							<tr>
+								<td height="16" style="line-height:16px;">&nbsp;</td>
+							</tr>
+							
+
+							<tr>
+								<td align="left" valign="middle">
+									<a href="https://www.penfed.org?s_cid=em-1054094" target="_blank">
+										<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/PenFed_Logo_RGB_header.png" alt="PenFed Credit Union" width="200" height="50" style="width: 200px; max-width: 100%" border="0">
+									</a>
+								</td>
+								<td width="60" align="right">
+                                    <table cellpadding="0" cellspacing="0" border="0" align="right" valign="bottom" role="presentation">
+                                        <tr><td height="20" style="line-height:20px;">&nbsp;</td></tr>
+										<tr>
+											<td align="right" valign="bottom" style="text-align: right;">
+												<a href="https://www.penfed.org/login?s_cid=em-1054095" style="text-decoration: none; right: 0;" align="right">
+                                                    <img align="right" src="https://www.penfed.org/content/dam/penfed/general/email/2022/new-2022-template/dark-mode/LogInBtn.png" width="60" alt="PenFed Login" />
+                                                </a>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+                            <tr>
+                                <td height="10" style="line-height:10px;">&nbsp;</td>
+                            </tr>
+						</table>
+                        </div>
+					</td>
+				</tr>
+<!-- End PenFed Logo -->
+
+				<tr>
+					<td align="center">
+						<table class="w-resize90" cellpadding="0" cellspacing="0" border="0" width="640" style="max-width: 90vw;" role="presentation">
+							<tr>
+								<td style="border-top: 2px solid #e5e8ed">
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td height="10" style="line-height:10px;">&nbsp;</td>
+				</tr>
+
+
+
+			</table>
+		</td>
+	</tr>
+
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+<!----------------- END EMAIL HEADER ------------------>
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+
+
+
+	<tr>
+		<td>
+
+<!-- Main Content (Bordered White Box) -->
+<table class="w-resize100" width="700" cellpadding="0" cellspacing="0" border="1" align="center" bordercolor="#cdccca" bgcolor="#fffffd" style="border: solid 1px #cdccca;" role="presentation">
+	<tbody>
+		<tr>
+			<td>
+
+<!-- START BOX TABLE -->
+<table cellpadding="0" cellspacing="0" border="0" role="presentation">
+	<tbody>
+
+
+
+
+
+
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+<!----------------- START EMAIL HERO ------------------>
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+
+
+
+<!-- New Hero Section -->
+		<tr>
+			<td align="center" valign="top" >
+				<table cellpadding="0" cellspacing="0" border="0" role="presentation">
+					<tr>
+						<td align="center" >
+							<a href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054103"><img class="w-resize100" width="700" alt="Our NEW rates let you earn nearly 3x the national average&sup2;&#33; Money Market Certificates. Button&#58; Open Now" src="https://www.penfed.org/content/dam/penfed/general/email/2023/certificates/02-february/20230207_certificate-acquisition_4886/PenFed_email_headers_certificates1_static_shorter-R2.jpg" style="width: 100%;"></a>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		
+<!-- END HERO SECTION -->
+
+
+
+
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+<!------------------ END EMAIL HERO ------------------->
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+
+
+
+
+
+
+
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+<!--------------- START EMAIL CONTENT ----------------->
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+
+<!-- Spacer -->
+		<tr><td height="45" style="line-height:45px;">&nbsp;</td></tr>
+
+<!-- Text Section -->
+		<tr>
+			<td align="center">
+				<table width="90%" class="w-resize90" cellpadding="0" cellspacing="0" border="0" align="center" role="presentation">
+					
+					
+					<tr>
+						<td align="center" class="t-size-24">
+							<b>*|FName|*, feel confident knowing your money<br class="desktop"> is safe and growing with these NEW rates&#33;</b>
+						</td>
+					</tr>
+					
+				</table>
+			</td>
+		</tr>
+		
+
+<!-- Spacer -->
+		<tr><td height="35" style="line-height:35px;">&nbsp;</td></tr>
+		
+		
+<!-- Blue Boxes with icons -->
+
+		<tr>
+			<td align="center">
+				<table align="center" cellpadding="0" cellspacing="0" border="0" width="80%" role="presentation">
+					<tbody>
+						<tr>
+							<td align="center" width="48%" valign="top" class="stack w-resize100" bgcolor="#ffffff" style="border: solid 1px #006B9A; border-collapse:separate">
+								<table cellpadding="0" cellspacing="0" border="0" width="85%" class="w-resize90" role="presentation">
+									<tbody>
+										<tr><td height="25" style="line-height:25px;">&nbsp;</td></tr>
+										<tr>
+											<td align="center" style="mso-line-height-rule:exactly;line-height:50px; font-size:46px; text-decoration: none; color: #006B9A; font-family:Arial, 'sans-serif';">
+												<strong style="color: #006B9A;"><span style="font-size:40pt; font-family:Arial, sans-serif;">4.60&#37;</span></strong>
+											</td>
+											
+										</tr>
+										<tr>
+											<td align="center" style="mso-line-height-rule:exactly;line-height:32px; font-size:30px; text-decoration: none; color: #006B9A; font-family:Arial, 'sans-serif';">
+												<strong style="color: #006B9A;">
+											<span style="font-size: 30px; line-height: 36px;"> APY&sup1;</span></strong>
+											</td>
+											
+										</tr>
+										<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+										<tr>
+						<td align="center" class="t-size-20">
+							<b>on a 1&#45;year Money Market Certificate.</b>
+						</td>
+					</tr>
+										<tr><td style="line-height:25px;" height="25">&nbsp;</td></tr>
+									</tbody>
+								</table>
+							</td>
+							<td width="2%" class="stack w-resize100" height="10" style="height:10px; width:4%;">&nbsp;</td>
+							<td align="center" width="48%" valign="top" class="stack w-resize100" bgcolor="#ffffff" style="border: solid 1px #006B9A; border-collapse:separate">
+								<table cellpadding="0" cellspacing="0" border="0" width="85%" class="w-resize90" role="presentation">
+									<tbody>
+										<tr><td height="25" style="line-height:25px;">&nbsp;</td></tr>
+										<tr>
+											<td align="center" style="mso-line-height-rule:exactly;line-height:50px; font-size:46px; text-decoration: none; color: #006B9A; font-family:Arial, 'sans-serif';">
+												<strong style="color: #006B9A;"><span style="font-size:40pt; font-family:Arial, sans-serif;">4.70&#37;</span></strong>
+											</td>
+											
+										</tr>
+										<tr>
+											<td align="center" style="mso-line-height-rule:exactly;line-height:32px; font-size:30px; text-decoration: none; color: #006B9A; font-family:Arial, 'sans-serif';">
+												<strong style="color: #006B9A;">
+											<span style="font-size: 30px; line-height: 36px;"> APY&sup1;</span></strong>
+											</td>
+											
+										</tr>
+										<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+										<tr>
+						<td align="center" class="t-size-20">
+							<b>on an 18&#45;month Money Market Certificate.</b>
+						</td>
+					</tr>
+										<tr><td style="line-height:25px;" height="25">&nbsp;</td></tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+
+				
+<!-- Spacer -->
+		<tr><td height="40" style="line-height:40px;">&nbsp;</td></tr>
+			<!-- Button YELLOW -->
+		<!-- Get Started Button YELLOW -->
+		<tr>
+			<td align="center">
+				<div>
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054104" style="height:46px;v-text-anchor:middle;width:220px; font-family: Arial, sans-serif;" arcsize="10%" stroke="f" fillcolor="#fed141">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054104" class="button_yellow" style="background-color: #fed141; border-radius: 4px; color: #002855; display: inline-block; font-size: 18px; font-weight: bold; line-height: 46px; text-align: center; text-decoration: none; width:220px; -webkit-text-size-adjust: none; font-family: Arial, sans-serif; max-width: 90vw;">Open Now</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]-->
+				</div>
+			</td>
+		</tr>
+		<tr><td style="line-height:40px;" height="40">&nbsp;</td></tr>
+		
+		
+
+		
+		<!-- Line Divider -->
+		<tr>
+			<td align="center">
+				<table align="center" cellpadding="0" cellspacing="0" border="0" width="80%" role="presentation">
+					<tr>
+						<td align="center">
+							<hr style="border-top: 2px solid #f2f2f2;">
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+
+
+
+
+
+<!-- Spacer -->
+		<tr><td height="40" style="line-height:40px;">&nbsp;</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+<!-- 3 Icons -->
+		<tr>
+			<td align="center">
+				<table cellpadding="0" cellspacing="0" border="0" width="80%" role="presentation">
+					<tbody>
+						<tr>
+							<td align="center" width="33%" valign="top" class="stack w-resize100">
+								<table cellpadding="0" cellspacing="0" border="0" width="75%" class="w-resize90" role="presentation">
+									<tbody>
+										<tr>
+											<td align="center">
+												<a href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054105">
+                                                    <img src="https://www.penfed.org/content/dam/penfed/general/email/2022/certificates/05-may/20220524_email-certificates_memorial-sale_4260/20220524_Email-Certificates_Memorial-Sale2.png" alt="Start with as little as &#36;1,000 icon" width="120" border="0" style="width:120px;">
+                                                </a>
+											</td>
+										</tr>
+										<tr><td style="line-height:15px;" height="15">&nbsp;</td></tr>
+										<tr>
+											<td align="center" class="t-size-16">
+												Open with as little <br class="desktop">as &#36;1,000
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+							<td width="0" class="stack w-resize100" height="30" style="line-height:30px; width:0px;">&nbsp;</td>
+							<td align="center" width="34%" valign="top" class="stack w-resize100">
+								<table cellpadding="0" cellspacing="0" border="0" width="85%" role="presentation">
+									<tbody>
+										<tr>
+											<td align="center">
+												<a href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054106">
+                                                     <img src="https://www.penfed.org/content/dam/penfed/general/email/2022/certificates/05-may/20220524_email-certificates_memorial-sale_4260/20220524_Email-Certificates_Memorial-Sale3.png" alt="Safety with guaranteed returns icon" width="120" border="0" style="width:120px;">
+                                                </a>
+											</td>
+										</tr>
+										<tr><td style="line-height:15px;" height="15">&nbsp;</td></tr>
+										<tr>
+											<td align="center" class="t-size-16">
+												Safety with guaranteed returns
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+							<td width="0" class="stack w-resize100" height="30" style="line-height:30px; width:0px;">&nbsp;</td>
+							<td align="center" width="33%" valign="top" class="stack w-resize100">
+								<table cellpadding="0" cellspacing="0" border="0" width="75%" role="presentation">
+									<tbody>
+										<tr>
+											<td align="center">
+												<a href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054107">
+                                                     <img src="https://www.penfed.org/content/dam/penfed/general/email/2022/certificates/05-may/20220524_email-certificates_memorial-sale_4260/20220524_Email-Certificates_Memorial-Sale4.png" alt="Terms icon" width="120" border="0" style="width:120px;">
+                                                </a>
+											</td>
+										</tr>
+										<tr><td style="line-height:15px;" height="15">&nbsp;</td></tr>
+										<tr>
+											<td align="center" class="t-size-16">
+												 Terms available from 6 months <br class="desktop">to 7 years
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+
+
+
+
+<!-- Spacer -->
+		<tr><td style="line-height:20px;" height="20">&nbsp;</td></tr>
+
+
+
+
+<!-- Get Started Button YELLOW -->
+		<tr>
+			<td align="center">
+				<div>
+<!--[if mso]>
+<v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054108" style="height:46px;v-text-anchor:middle;width:220px; font-family: Arial, sans-serif;" arcsize="10%" stroke="f" fillcolor="#fed141">
+<w:anchorlock/>
+<center>
+<![endif]-->
+<a href="https://www.penfed.org/accounts/money-market-certificate?s_cid=em-1054108" class="button_yellow" style="background-color: #fed141; border-radius: 4px; color: #002855; display: inline-block; font-size: 18px; font-weight: bold; line-height: 46px; text-align: center; text-decoration: none; width:220px; -webkit-text-size-adjust: none; font-family: Arial, sans-serif; max-width: 90vw;">Get Started Today</a>
+<!--[if mso]>
+</center>
+</v:roundrect>
+<![endif]-->
+				</div>
+			</td>
+		</tr>
+
+
+<!-- Spacer -->
+		<tr><td style="line-height:40px;" height="40">&nbsp;</td></tr>
+
+
+
+<!-- BRAND DIVIDER -->
+		<tr>
+			<td align="center">
+				<img width="698" alt="PenFed" src="https://www.penfed.org/content/dam/penfed/general/email/2022/new-2022-template/BranHRsmall.jpg" style="clear: both; display: block; height: auto; outline:0; text-decoration: none; width: 698px; -ms-interpolation-mode: bicubic; max-width: 100vw;">
+			</td>
+		</tr>
+
+
+
+        <tr>
+			<td align="center" bgcolor="#e9f0f7">
+				<table width="90%" class="w-resize90" cellpadding="0" cellspacing="0" border="0" align="center">
+					<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+						<tr><td align="center" style="font-size: 50; font-weight:600;">What can we help you achieve?</td></tr>
+						<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+					<tr>
+						<td>
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr>
+									<td valign="top" class="stack w-resize100" width="40%">
+				<table>
+					<tr>
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/accounts/savings-accounts-overview?s_cid=em-1054109">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2022/member-exclusives/08-august/202208_MemberExclusives5.png" alt="Savings Account" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink" href="https://www.penfed.org/accounts/savings-accounts-overview?s_cid=em-1054109" style="color:#002855; text-decoration: none;">Savings Account</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+							</table>
+						</td>
+						<td height="10" style="line-height: 10px;">&nbsp;</td>
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/checking?s_cid=em-1054110">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2022/member-exclusives/08-august/202208_MemberExclusives6.png" alt="Checking Account" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink"  href="https://www.penfed.org/checking?s_cid=em-1054110" style="color:#002855; text-decoration: none;">Checking Account</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+							</table>
+						</td>
+						<td height="10" style="line-height: 10px;">&nbsp;</td>
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/credit-cards?s_cid=em-1054111">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2022/member-exclusives/08-august/202208_MemberExclusives7.png" alt="Credit Cards" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink" href="https://www.penfed.org/credit-cards?s_cid=em-1054111" style="color:#002855; text-decoration: none;">Credit Cards</a>
+									</td>
+								</tr>
+								
+							</table>
+						</td>
+						</tr>
+					</table>
+				</td>
+				<td class="stack w-resize100" height="10" style="line-height: 10px;" width="2%">&nbsp;</td>
+				<td class="stack w-resize100" width="60%">
+					<table>
+						<tr>
+
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/auto?s_cid=em-1054112">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2022/member-exclusives/08-august/202208_MemberExclusives8.png" alt="Auto Loans" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink"  href="https://www.penfed.org/auto?s_cid=em-1054112" style="color:#002855; text-decoration: none;">Auto <br>Loans</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+							</table>
+						</td>
+						<td height="10" style="line-height: 10px;">&nbsp;</td>
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/mortgage-center?s_cid=em-1054113">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2022/member-exclusives/08-august/202208_MemberExclusives9.png" alt="Mortgages &amp; HELOC" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink"  href="https://www.penfed.org/mortgage-center?s_cid=em-1054113" style="color:#002855; text-decoration: none;">Mortgages &amp; HELOC</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+							</table>
+						</td>
+								<td height="10" style="line-height: 10px;">&nbsp;</td>
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/personal/personal-loans?s_cid=em-1054114">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2023/certificates/02-february/20230207_certificate-acquisition_4886/icon-personal-loan.png" alt="Personal Loans" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink"  href="https://www.penfed.org/personal/personal-loans?s_cid=em-1054114" style="color:#002855; text-decoration: none;">Personal Loans</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+							</table>
+						</td>
+						<td height="10" style="line-height: 10px;">&nbsp;</td>
+						<td width="30%" align="center" valign="top">
+							<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%">
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a href="https://www.penfed.org/student-loans/refinancing?s_cid=em-1054115">
+											<img src="https://www.penfed.org/content/dam/penfed/general/email/2022/member-exclusives/08-august/202208_MemberExclusives10.png" alt="Student Loans" width="55" border="0" style="width:55px;">
+										</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+								<tr>
+									<td align="center">
+										<a class="ctalink"  href="https://www.penfed.org/student-loans/refinancing?s_cid=em-1054115" style="color:#002855; text-decoration: none;">Student Loans</a>
+									</td>
+								</tr>
+								<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+</td>
+					</tr>
+					<tr><td height="10" style="line-height: 10px;">&nbsp;</td></tr>
+				</table>
+			</td>
+		</tr>
+
+
+
+
+
+
+<!-- BOTTOM LINKS BANNER -->
+		<tr>
+			<td bgcolor="#002855" class="navy" align="center">
+				<table width="680" cellpadding="0" cellspacing="0" border="0" bgcolor="#002855" class="navy w-resize90" align="center" role="presentation">
+					<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+					<tr>
+						<td align="center" class="text_white" style="color: #ffffff;">
+							<a class="ctalink-white" href="https://www.penfed.org/login?s_cid=em-1054116" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 14px;">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a class="ctalink-white" href="https://www.penfed.org/locations?s_cid=em-1054117" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 14px;">Locations</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a class="ctalink-white" href="https://www.penfed.org/learn?s_cid=em-1054118" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 14px;">Learning Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a class="ctalink-white" href="https://www.penfed.org/advice-center?s_cid=em-1054119" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 14px;">Advice Center</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+							<a class="ctalink-white" href="https://www.penfed.org/advice-center/website-security?s_cid=em-1054120" target="_blank" style="color: #ffffff; text-decoration: none; font-size: 14px;">Security Center</a>
+						</td>
+					</tr>
+					<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+				</table>
+			</td>
+		</tr>
+
+
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+<!---------------- END EMAIL CONTENT ------------------>
+<!----------------------------------------------------->
+<!----------------------------------------------------->
+
+
+
+<!-- END BOX TABLE -->
+	</tbody>
+</table>
+
+<!-- END BORDER TABLE -->
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+		</td>
+	</tr>
+	<tr>
+		<td>
+
+
+
+
+<!-- FOOTER TABLE -->
+<table align="center" width="640" class="w-resize90" cellpadding="0" cellspacing="0" border="0" role="presentation">
+	<!--DOWNLOAD APPS-->
+	<tr id="APPS_ROW_3of5">
+		<td align="center">
+			<table cellspacing="0" cellpadding="0" border="0" role="presentation">
+				<tr><td height="40" style="line-height:40px;">&nbsp;</td></tr>
+				<tr>
+					<td colspan="3" align="center" valign="top" style="font-size: 10pt; color: #4A4A4A; margin: 0 0 8px; line-height: 1.3em;"> Download the PenFed App</td>
+				</tr>
+				<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+				<tr>
+					<td>
+						<a href="https://play.google.com/store/apps/details?id=org.penfed.mobile.banking&hl=en">
+							<img alt="Get it on Google Play" height="40" style="height: 40px; -ms-interpolation-mode: bicubic; display: block;border: none !important; outline: none !important; max-width: 45vw;" src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/GooglePlay_Button-2.jpg">
+						</a>
+					</td>
+					<td width="30" style="width: 30px;"></td>
+					<td>
+						<a href="https://apps.apple.com/us/app/penfed-mobile/id460008350">
+							<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/icon_DigitalForwardMail_RGB_Artboard%201.png" alt="Download on the App Store" height="40" style="height: 40px;-ms-interpolation-mode: bicubic; display: block; border: none !important; outline: none !important; max-width: 45vw;">
+						</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<!--SOCIAL-->
+	<tr id="SOCIAL_ROW_1of5">
+		<td align="center">
+			<table cellspacing="0" cellpadding="0" border="0" role="presentation">
+				<tr><td height="30" style="line-height:30px;">&nbsp;</td></tr>
+				<tr>
+					<td colspan="9" align="center" valign="top" style="font-size: 10pt;color: #4A4A4A;margin: 0 0 8px; line-height: 1.3em;"> Follow PenFed on Social Media</td>
+				</tr>
+				<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+				<tr>
+					<td>
+						<a href="https://www.facebook.com/PenFed/">
+							<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/Facebook-Black.png" alt="Facebook" width="20" style="width: 20px;-ms-interpolation-mode: bicubic;display: block;border: none !important;outline: none !important;">
+						</a>
+					</td>
+					<td width="30" style="width:30px;">&nbsp;</td>
+					<td>
+						<a href="https://www.instagram.com/penfed/">
+							<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/Instagram-Black.png" alt="Instagram" width="20" style="width: 20px;-ms-interpolation-mode: bicubic;display: block;border: none !important;outline: none !important;">
+						</a>
+					</td>
+					<td width="30" style="width:30px;">&nbsp;</td>
+					<td>
+						<a href="https://www.linkedin.com/company/pentagon-federal-credit-union/">
+							<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/LinkedIn-Black.png" alt="LinkedIn" width="25" style="width: 25px;-ms-interpolation-mode: bicubic;display: block;border: none !important;outline: none !important;">
+						</a>
+					</td>
+					<td width="30" style="width:30px;">&nbsp;</td>
+					<td>
+						<a href="https://twitter.com/PenFed?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+							<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/Twitter-Black.png" alt="Twitter" width="20" style="width: 20px;-ms-interpolation-mode: bicubic;display: block;border: none !important;outline: none !important;">
+						</a>
+					</td>
+					<td width="30" style="width:30px;">&nbsp;</td>
+					<td>
+						<a href="https://www.youtube.com/channel/UCxrhYpf3kS5n4hQ_geTutUQ">
+							<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/YouTube-Black.png" alt="YouTube" width="25" style="width: 25px;-ms-interpolation-mode: bicubic;display: block;border: none !important;outline: none !important;">
+						</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td height="30" style="line-height:30px;">&nbsp;</td></tr>
+	<tr id="FOOTER_ROW_1of5">
+		<td align="center">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-top: 1px solid #cdccca; width: 100%; padding:0" role="presentation">
+				<tr><td height="20" style="line-height:20px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+            <a class="ctalink" style="color:#006B9A; text-decoration: none;" target="_blank" href="<%@ include view='MirrorPageUrl' ">View as web page</a>
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						<b>DISCLOSURES</b>
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						To receive any advertised product, you must become a member of PenFed Credit Union.<br><br>
+						
+						 1. APY &#61; Annual Percentage Yield. Rates are accurate as of February 1, 2022. Rates are subject to change and are fixed for the term of the certificate. Certificates dividends compound daily and credited monthly. The minimum balance to open a certificate is &#36;1,000. Penalty will be imposed for early withdrawal. This will reduce earnings on the account. 
+			 <br><br>
+						2. Sourced directly from: <a class="ctalink" href="https://www.fdic.gov/resources/bankers/national-rates/index.html" style="color:#006B9A;">https://www.fdic.gov/resources/bankers/national-rates/index.html</a>. The average 1&#45;year rate is 1.28&#37; APY. Our 1&#45;year rate is 4.60&#37; APY or 3x the national average as of January 17, 2023.  
+			  	 <br><br>
+			 For all certificates funded by ACH, funds cannot be withdrawn within the first 60 days of the account opening. 
+			 
+					
+			 
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						Questions or comments&#63; <a class="ctalink" href="https://www.penfed.org/contact-us?s_cid=em-1054121" style="color:#006B9A;">Contact us</a>.
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						This email has been sent to: <a href="mailto: recipient.email " style="color:#006B9A; text-decoration: none;"> recipient.email </a>.  To change your email address, please log on at <a class="ctalink" href="https://www.penfed.org/login/?app=PROFILE&s_cid=em-1054122" style="color:#006B9A;">PenFed.org</a>. This will ensure your official records are updated.
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						<a class="ctalink" href="https://www.penfed.org/privacy-policy?s_cid=em-1054123" style="color:#006B9A;">Privacy Policy</a> | <a class="ctalink" href="https://www.penfed.org/forms/penfed-membership-disclosures?s_cid=em-1054124" style="color:#006B9A; ">Disclaimers</a>
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+					    <b>To UNSUBSCRIBE</b>, use <a class="ctalink" href="<%@ include option='NmsServer_URL' /webApp/pfdUnsub?id=<%=escapeUrl(recipient.cryptedId)" target="_blank" style="color:#006B9A;text-decoration: none">this link</a>. Please do not reply to this automated message.					
+          </td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						PenFed Credit Union, 7940 Jones Branch Dr, McLean, VA 22102
+					</td>
+				</tr>
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						&copy; 2023 Pentagon Federal Credit Union
+					</td>
+				</tr>
+				
+				<tr><td height="10" style="line-height:10px;">&nbsp;</td></tr>
+				<tr>
+					<td class="t-size-10 text_grey" style="color: #4A4A4A;">
+						4886
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td height="15" style="line-height:15px;">&nbsp;</td></tr>
+	<tr>
+		<td align="left">
+			<table align="left" cellpadding="0" cellspacing="0" border="0" role="presentation">
+				<tr>
+					<td width="60">
+						<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/EHL_email.png" alt="Equal Housing Lender" width="60" style="width: 60px;-ms-interpolation-mode: bicubic;display: inline-block;outline: none !important;border: none !important;">
+					</td>
+					<td width="20" style="width:20px;">&nbsp;</td>
+					<td width="60">
+						<img src="https://www.penfed.org/content/dam/penfed/general/email/logos-email-template/NCUA_email.png" alt="Federally Insured By NCUA" width="60" style="width: 60px;-ms-interpolation-mode: bicubic;display: inline-block;outline: none !important;border: none !important;">
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td height="30" style="line-height:30px;">&nbsp;</td></tr>
+</table>
+<!-- END FOOTER TABLE -->
+
+<!-- END BODY TABLE -->
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
